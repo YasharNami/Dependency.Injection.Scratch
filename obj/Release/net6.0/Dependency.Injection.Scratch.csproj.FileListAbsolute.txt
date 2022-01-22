@@ -1,0 +1,15 @@
+C:\Users\namiy\source\repos\Scratch\Dependency.Injection.Scratch\bin\Release\net6.0\Dependency.Injection.Scratch.exe
+C:\Users\namiy\source\repos\Scratch\Dependency.Injection.Scratch\bin\Release\net6.0\Dependency.Injection.Scratch.deps.json
+C:\Users\namiy\source\repos\Scratch\Dependency.Injection.Scratch\bin\Release\net6.0\Dependency.Injection.Scratch.runtimeconfig.json
+C:\Users\namiy\source\repos\Scratch\Dependency.Injection.Scratch\bin\Release\net6.0\Dependency.Injection.Scratch.dll
+C:\Users\namiy\source\repos\Scratch\Dependency.Injection.Scratch\bin\Release\net6.0\ref\Dependency.Injection.Scratch.dll
+C:\Users\namiy\source\repos\Scratch\Dependency.Injection.Scratch\bin\Release\net6.0\Dependency.Injection.Scratch.pdb
+C:\Users\namiy\source\repos\Scratch\Dependency.Injection.Scratch\obj\Release\net6.0\Dependency.Injection.Scratch.csproj.AssemblyReference.cache
+C:\Users\namiy\source\repos\Scratch\Dependency.Injection.Scratch\obj\Release\net6.0\Dependency.Injection.Scratch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiy\source\repos\Scratch\Dependency.Injection.Scratch\obj\Release\net6.0\Dependency.Injection.Scratch.AssemblyInfoInputs.cache
+C:\Users\namiy\source\repos\Scratch\Dependency.Injection.Scratch\obj\Release\net6.0\Dependency.Injection.Scratch.AssemblyInfo.cs
+C:\Users\namiy\source\repos\Scratch\Dependency.Injection.Scratch\obj\Release\net6.0\Dependency.Injection.Scratch.csproj.CoreCompileInputs.cache
+C:\Users\namiy\source\repos\Scratch\Dependency.Injection.Scratch\obj\Release\net6.0\Dependency.Injection.Scratch.dll
+C:\Users\namiy\source\repos\Scratch\Dependency.Injection.Scratch\obj\Release\net6.0\ref\Dependency.Injection.Scratch.dll
+C:\Users\namiy\source\repos\Scratch\Dependency.Injection.Scratch\obj\Release\net6.0\Dependency.Injection.Scratch.pdb
+C:\Users\namiy\source\repos\Scratch\Dependency.Injection.Scratch\obj\Release\net6.0\Dependency.Injection.Scratch.genruntimeconfig.cache
